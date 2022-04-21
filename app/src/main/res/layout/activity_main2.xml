@@ -19,7 +19,7 @@
             android:id="@+id/tv_fun"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Math is fun"
+            android:text="Math is good but horrible"
             android:textColor="#0E0E0E"
             android:textSize="20sp"
             android:textStyle="bold" />

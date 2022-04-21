@@ -24,7 +24,7 @@
                 android:id="@+id/tv_1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Kids Educational App"
+                android:text="Teenagers Educational App"
                 android:textColor="#0C0C0C"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -33,7 +33,7 @@
                 android:id="@+id/tv_2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Welcome to my application" />
+                android:text="Say Hello to my application" />
         </LinearLayout>
 
         <ImageView
@@ -52,8 +52,8 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="54dp"
-        android:layout_marginTop="198dp">
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="191dp">
 
         <TextView
             android:id="@+id/tv_3"
@@ -62,7 +62,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="32dp"
             android:width="150dp"
-            android:text="Children's Education App"
+            android:text="Teenagers Education App"
             android:textSize="20sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
